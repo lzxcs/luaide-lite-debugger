@@ -1,3 +1,6 @@
+# luaide-lite-debugger
+* **在luaide-lite的基础上，仅保留debugger功能**
+
 # luaide-lite
 [![](https://vsmarketplacebadge.apphb.com/version-short/wellshsu.luaide-lite.svg?style=flat-square)](https://marketplace.visualstudio.com/items?itemName=wellshsu.luaide-lite)
 [![](https://vsmarketplacebadge.apphb.com/installs-short/wellshsu.luaide-lite.svg?style=flat-square)](https://marketplace.visualstudio.com/items?itemName=wellshsu.luaide-lite)
